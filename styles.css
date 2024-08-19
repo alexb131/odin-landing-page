@@ -98,3 +98,25 @@ h2 {
     border: 5px solid #3882f6;
     border-radius: 10px;
 }
+
+.third {
+    background-color: #e5e7eb;
+    padding: 0 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+    margin-bottom: 0;
+    margin-top: 80px;
+}
+
+.author {
+    font-weight: bold;
+    align-self: flex-end;
+    margin-bottom: 80px;
+}
