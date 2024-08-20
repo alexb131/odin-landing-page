@@ -148,3 +148,16 @@ h3 {
     margin-top: 0;
     color: #e5e7eb;
 }
+
+.footer {
+    background-color: #1f2937;
+}
+
+.footer p {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 20px;
+}
